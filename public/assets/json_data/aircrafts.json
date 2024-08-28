@@ -1,0 +1,1243 @@
+
+[
+    {
+    "AircraftCode": "100",
+    "AircraftName": "FOKKER 100"
+    },
+    {
+    "AircraftCode": "115",
+    "AircraftName": "CDN DND DASH 5"
+    },
+    {
+    "AircraftCode": "130",
+    "AircraftName": "CDN DND LOCKHEED"
+    },
+    {
+    "AircraftCode": "138",
+    "AircraftName": "CDN DND DASH 6"
+    },
+    {
+    "AircraftCode": "140",
+    "AircraftName": "CDN DND"
+    },
+    {
+    "AircraftCode": "141",
+    "AircraftName": "BRITISH AEROSPACE 141"
+    },
+    {
+    "AircraftCode": "142",
+    "AircraftName": "BRITISH AEROSPACE"
+    },
+    {
+    "AircraftCode": "143",
+    "AircraftName": "BRITISH AEROSPACE"
+    },
+    {
+    "AircraftCode": "144",
+    "AircraftName": "CDN DND"
+    },
+    {
+    "AircraftCode": "146",
+    "AircraftName": "BRITISH AEROSPACE 146"
+    },
+    {
+    "AircraftCode": "150",
+    "AircraftName": "CDN DND AIRBUS"
+    },
+    {
+    "AircraftCode": "223",
+    "AircraftName": "AIRBUS A220-300"
+    },
+    {
+    "AircraftCode": "290",
+    "AircraftName": "EMBRAER 190 E2"
+    },
+    {
+    "AircraftCode": "310",
+    "AircraftName": "AIRBUS A310"
+    },
+    {
+    "AircraftCode": "312",
+    "AircraftName": "AIRBUS INDUSTRIE 312"
+    },
+    {
+    "AircraftCode": "313",
+    "AircraftName": "AIRBUS INDUSTRIE 313"
+    },
+    {
+    "AircraftCode": "318",
+    "AircraftName": "AIRBUS A318"
+    },
+    {
+    "AircraftCode": "319",
+    "AircraftName": "AIRBUS A319"
+    },
+    {
+    "AircraftCode": "320",
+    "AircraftName": "AIRBUS A320"
+    },
+    {
+    "AircraftCode": "321",
+    "AircraftName": "AIRBUS A321"
+    },
+    {
+    "AircraftCode": "32A",
+    "AircraftName": "AIRBUS INDUSTRIE A320 SHARKLETS"
+    },
+    {
+    "AircraftCode": "32B",
+    "AircraftName": "AIRBUS INDUSTRIE A321 SHARKLETS"
+    },
+    {
+    "AircraftCode": "32D",
+    "AircraftName": "AIRBUS INDUSTRIE A319"
+    },
+    {
+    "AircraftCode": "32N",
+    "AircraftName": "AIRBUS A320NEO"
+    },
+    {
+    "AircraftCode": "32Q",
+    "AircraftName": "AIRBUS A321NEO"
+    },
+    {
+    "AircraftCode": "32S",
+    "AircraftName": "AIRBUS INDUSTRIE A321"
+    },
+    {
+    "AircraftCode": "330",
+    "AircraftName": "AIRBUS A330"
+    },
+    {
+    "AircraftCode": "332",
+    "AircraftName": "AIRBUS INDUSTRIE A330-200"
+    },
+    {
+    "AircraftCode": "333",
+    "AircraftName": "AIRBUS INDUSTRIE 330-300"
+    },
+    {
+    "AircraftCode": "339",
+    "AircraftName": "AIRBUS A330-900NEO"
+    },
+    {
+    "AircraftCode": "340",
+    "AircraftName": "AIRBUS A340"
+    },
+    {
+    "AircraftCode": "342",
+    "AircraftName": "AIRBUS A340"
+    },
+    {
+    "AircraftCode": "343",
+    "AircraftName": "AIRBUS A340"
+    },
+    {
+    "AircraftCode": "345",
+    "AircraftName": "AIRBUS A340-500"
+    },
+    {
+    "AircraftCode": "346",
+    "AircraftName": "AIRBUS INDUSTRIE A340-600"
+    },
+    {
+    "AircraftCode": "350",
+    "AircraftName": "AIRBUS A350"
+    },
+    {
+    "AircraftCode": "351",
+    "AircraftName": "AIRBUS A351"
+    },
+    {
+    "AircraftCode": "358",
+    "AircraftName": "AIRBUS A358"
+    },
+    {
+    "AircraftCode": "359",
+    "AircraftName": "AIRBUS A359"
+    },
+    {
+    "AircraftCode": "380",
+    "AircraftName": "AIRBUS INDUSTRIE A380-800"
+    },
+    {
+    "AircraftCode": "388",
+    "AircraftName": "AIRBUS INDUSTRIE A380-800"
+    },
+    {
+    "AircraftCode": "717",
+    "AircraftName": "BOEING 717"
+    },
+    {
+    "AircraftCode": "722",
+    "AircraftName": "BOEING 727"
+    },
+    {
+    "AircraftCode": "727",
+    "AircraftName": "BOEING 727"
+    },
+    {
+    "AircraftCode": "72A",
+    "AircraftName": "BOEING 727 ADVANCED"
+    },
+    {
+    "AircraftCode": "72B",
+    "AircraftName": "BOEING 727-100 MIXED CONFIG"
+    },
+    {
+    "AircraftCode": "72M",
+    "AircraftName": "BOEING 727-100 PSGR-FRT"
+    },
+    {
+    "AircraftCode": "72S",
+    "AircraftName": "BOEING 727 STRETCH"
+    },
+    {
+    "AircraftCode": "732",
+    "AircraftName": "BOEING 737 200 PASSENGER"
+    },
+    {
+    "AircraftCode": "733",
+    "AircraftName": "BOEING 737-300"
+    },
+    {
+    "AircraftCode": "734",
+    "AircraftName": "BOEING 737-400"
+    },
+    {
+    "AircraftCode": "735",
+    "AircraftName": "BOEING 737-500"
+    },
+    {
+    "AircraftCode": "736",
+    "AircraftName": "BOEING 737-600"
+    },
+    {
+    "AircraftCode": "737",
+    "AircraftName": "BOEING 737"
+    },
+    {
+    "AircraftCode": "738",
+    "AircraftName": "BOEING 737-800"
+    },
+    {
+    "AircraftCode": "739",
+    "AircraftName": "BOEING 737-900"
+    },
+    {
+    "AircraftCode": "73A",
+    "AircraftName": "BOEING 737-200 ADVANCED"
+    },
+    {
+    "AircraftCode": "73C",
+    "AircraftName": "BOEING 737-300"
+    },
+    {
+    "AircraftCode": "73E",
+    "AircraftName": "BOEING 737-500 WINGLETS"
+    },
+    {
+    "AircraftCode": "73G",
+    "AircraftName": "BOEING 737-700"
+    },
+    {
+    "AircraftCode": "73H",
+    "AircraftName": "BOEING 737 800"
+    },
+    {
+    "AircraftCode": "73J",
+    "AircraftName": "BOEING 737"
+    },
+    {
+    "AircraftCode": "73L",
+    "AircraftName": "BOEING 737-200 MIXED CONFIGURATION"
+    },
+    {
+    "AircraftCode": "73M",
+    "AircraftName": "BOEING 737"
+    },
+    {
+    "AircraftCode": "73N",
+    "AircraftName": "BOEING 737-300"
+    },
+    {
+    "AircraftCode": "73P",
+    "AircraftName": "BOEING 737-400 FREIGHTER"
+    },
+    {
+    "AircraftCode": "73Q",
+    "AircraftName": "BOEING 737-400"
+    },
+    {
+    "AircraftCode": "73R",
+    "AircraftName": "BOEING 737-700 MIXED CONFIG"
+    },
+    {
+    "AircraftCode": "73S",
+    "AircraftName": "BOEING 737 STRETCH"
+    },
+    {
+    "AircraftCode": "73W",
+    "AircraftName": "BOEING 737-700"
+    },
+    {
+    "AircraftCode": "741",
+    "AircraftName": "BOEING 747 100"
+    },
+    {
+    "AircraftCode": "742",
+    "AircraftName": "BOEING 747"
+    },
+    {
+    "AircraftCode": "743",
+    "AircraftName": "BOEING 747 STRETCH UPPER DECK"
+    },
+    {
+    "AircraftCode": "744",
+    "AircraftName": "BOEING 747"
+    },
+    {
+    "AircraftCode": "747",
+    "AircraftName": "BOEING 747"
+    },
+    {
+    "AircraftCode": "74C",
+    "AircraftName": "BOEING 747 MIXED CONFIG"
+    },
+    {
+    "AircraftCode": "74D",
+    "AircraftName": "BOEING 747-300 STRETCHED UPPER DECKJET"
+    },
+    {
+    "AircraftCode": "74E",
+    "AircraftName": "B747-400 COMBI 276"
+    },
+    {
+    "AircraftCode": "74H",
+    "AircraftName": "BOEING 747-800"
+    },
+    {
+    "AircraftCode": "74J",
+    "AircraftName": "BOEING 747-400"
+    },
+    {
+    "AircraftCode": "74L",
+    "AircraftName": "BOEING 747SP LONGRANGE"
+    },
+    {
+    "AircraftCode": "74M",
+    "AircraftName": "MIXED PSGR FREIGHTER JET"
+    },
+    {
+    "AircraftCode": "74R",
+    "AircraftName": "BOEING 747SR"
+    },
+    {
+    "AircraftCode": "752",
+    "AircraftName": "BOEING 757 200 SERIES"
+    },
+    {
+    "AircraftCode": "753",
+    "AircraftName": "BOEING 757 300 SERIES"
+    },
+    {
+    "AircraftCode": "757",
+    "AircraftName": "BOEING 757"
+    },
+    {
+    "AircraftCode": "75M",
+    "AircraftName": "BOEING 757 MIXED"
+    },
+    {
+    "AircraftCode": "75T",
+    "AircraftName": "BOEING 757 300 WINGLETS"
+    },
+    {
+    "AircraftCode": "75W",
+    "AircraftName": "BOEING 757 200 WINGLETS"
+    },
+    {
+    "AircraftCode": "762",
+    "AircraftName": "BOEING 767"
+    },
+    {
+    "AircraftCode": "763",
+    "AircraftName": "BOEING 767"
+    },
+    {
+    "AircraftCode": "764",
+    "AircraftName": "BOEING 767-400"
+    },
+    {
+    "AircraftCode": "767",
+    "AircraftName": "BOEING 767"
+    },
+    {
+    "AircraftCode": "76W",
+    "AircraftName": "BOEING 767-300"
+    },
+    {
+    "AircraftCode": "772",
+    "AircraftName": "BOEING 777-200"
+    },
+    {
+    "AircraftCode": "773",
+    "AircraftName": "BOEING 777-300"
+    },
+    {
+    "AircraftCode": "777",
+    "AircraftName": "BOEING 777"
+    },
+    {
+    "AircraftCode": "77L",
+    "AircraftName": "BOEING 777-200LR"
+    },
+    {
+    "AircraftCode": "77W",
+    "AircraftName": "BOEING 777-300ER"
+    },
+    {
+    "AircraftCode": "781",
+    "AircraftName": "BOEING DREAMLINER SERIES 10"
+    },
+    {
+    "AircraftCode": "787",
+    "AircraftName": "BOEING 787"
+    },
+    {
+    "AircraftCode": "788",
+    "AircraftName": "BOEING 787-8"
+    },
+    {
+    "AircraftCode": "789",
+    "AircraftName": "BOEING 787-9"
+    },
+    {
+    "AircraftCode": "7M7",
+    "AircraftName": "BOEING 737MAX 7 PASSENGER"
+    },
+    {
+    "AircraftCode": "7M8",
+    "AircraftName": "BOEING 737MAX 8 PASSENGER"
+    },
+    {
+    "AircraftCode": "7M9",
+    "AircraftName": "BOEING 737MAX 9 PASSENGER"
+    },
+    {
+    "AircraftCode": "7S8",
+    "AircraftName": "BOEING 737-800 SCIMITAR WINGLETS"
+    },
+    {
+    "AircraftCode": "A26",
+    "AircraftName": "ANTONOV AN 26"
+    },
+    {
+    "AircraftCode": "A28",
+    "AircraftName": "ANTONOV A28"
+    },
+    {
+    "AircraftCode": "A32",
+    "AircraftName": "A32 ANTONOV AN 32"
+    },
+    {
+    "AircraftCode": "A38",
+    "AircraftName": "ANTONOV AN38"
+    },
+    {
+    "AircraftCode": "A40",
+    "AircraftName": "ANTONOV 140"
+    },
+    {
+    "AircraftCode": "A58",
+    "AircraftName": "ANTONOV AN58"
+    },
+    {
+    "AircraftCode": "A5F",
+    "AircraftName": "ANTONOV AN-225"
+    },
+    {
+    "AircraftCode": "A81",
+    "AircraftName": "N ANTONOV AN148-100"
+    },
+    {
+    "AircraftCode": "AB3",
+    "AircraftName": "AIRBUS INDUSTRIE"
+    },
+    {
+    "AircraftCode": "AB4",
+    "AircraftName": "AIRBUS INDUSTRIE"
+    },
+    {
+    "AircraftCode": "AB6",
+    "AircraftName": "AIRBUS INDUSTRIE"
+    },
+    {
+    "AircraftCode": "ACD",
+    "AircraftName": "ROCKWELL AERO COMMANDER"
+    },
+    {
+    "AircraftCode": "AGH",
+    "AircraftName": "AGUSTA 102"
+    },
+    {
+    "AircraftCode": "AN4",
+    "AircraftName": "ANTONOV AN24"
+    },
+    {
+    "AircraftCode": "AN6",
+    "AircraftName": "ANTONOV AN26"
+    },
+    {
+    "AircraftCode": "AN7",
+    "AircraftName": "ANTONOV 72 74"
+    },
+    {
+    "AircraftCode": "AR1",
+    "AircraftName": "RJ400-REGIONAL"
+    },
+    {
+    "AircraftCode": "AR7",
+    "AircraftName": "RJ70-REGIONAL"
+    },
+    {
+    "AircraftCode": "AR8",
+    "AircraftName": "RJ85-REGIONAL"
+    },
+    {
+    "AircraftCode": "ARJ",
+    "AircraftName": "BRITISH AEROSPACE RJ7"
+    },
+    {
+    "AircraftCode": "AT3",
+    "AircraftName": "AEROSPATIALE ALENIA ATR42 300"
+    },
+    {
+    "AircraftCode": "AT4",
+    "AircraftName": "AEROSPATIALE ALENIA ATR-42"
+    },
+    {
+    "AircraftCode": "AT5",
+    "AircraftName": "AEROSPATIALE ALENIA ATR42-500"
+    },
+    {
+    "AircraftCode": "AT7",
+    "AircraftName": "ATR TURBOPROP"
+    },
+    {
+    "AircraftCode": "ATP",
+    "AircraftName": "BRITISH AEROSPACE ATP"
+    },
+    {
+    "AircraftCode": "ATR",
+    "AircraftName": "ATR"
+    },
+    {
+    "AircraftCode": "B14",
+    "AircraftName": "BRITISH AEROSPACE"
+    },
+    {
+    "AircraftCode": "B15",
+    "AircraftName": "BAC 111-500"
+    },
+    {
+    "AircraftCode": "BE1",
+    "AircraftName": "BEECHCRAFT 1900 1900C 1900D SERIES"
+    },
+    {
+    "AircraftCode": "BE2",
+    "AircraftName": "BEECHCRAFT BE 200 SUPER KINGAIR"
+    },
+    {
+    "AircraftCode": "BE4",
+    "AircraftName": "BEECHCRAFT RAYTHEON BEECHJET"
+    },
+    {
+    "AircraftCode": "BE9",
+    "AircraftName": "BEECHCRAFT C99"
+    },
+    {
+    "AircraftCode": "BEC",
+    "AircraftName": "BEECHCRAFT"
+    },
+    {
+    "AircraftCode": "BEH",
+    "AircraftName": "BEECHCRAFT 1900D SERIES"
+    },
+    {
+    "AircraftCode": "BES",
+    "AircraftName": "BEECHCRAFT B100 SERIES"
+    },
+    {
+    "AircraftCode": "BET",
+    "AircraftName": "BEECHCRAFT"
+    },
+    {
+    "AircraftCode": "BH2",
+    "AircraftName": "BELL JET RANGER"
+    },
+    {
+    "AircraftCode": "BNI",
+    "AircraftName": "BRITTEN NORMAN ISLANDER"
+    },
+    {
+    "AircraftCode": "BNT",
+    "AircraftName": "BRITTEN NORMAN TRISLANDER"
+    },
+    {
+    "AircraftCode": "BUS",
+    "AircraftName": "BUS"
+    },
+    {
+    "AircraftCode": "CCJ",
+    "AircraftName": "CANADAIR CHALLENGER"
+    },
+    {
+    "AircraftCode": "CD2",
+    "AircraftName": "N22 N24 NOMAD"
+    },
+    {
+    "AircraftCode": "CHG",
+    "AircraftName": "CHANGE IN GAUGE"
+    },
+    {
+    "AircraftCode": "CL4",
+    "AircraftName": "CANADAIR CL44"
+    },
+    {
+    "AircraftCode": "CN1",
+    "AircraftName": "CESSNA"
+    },
+    {
+    "AircraftCode": "CN2",
+    "AircraftName": "CESSNA STATIONAIR 206"
+    },
+    {
+    "AircraftCode": "CNA",
+    "AircraftName": "CESSNA"
+    },
+    {
+    "AircraftCode": "CNC",
+    "AircraftName": "CESSNA SINGLE TURBOPROP ENGINE"
+    },
+    {
+    "AircraftCode": "CNF",
+    "AircraftName": "CESSNA 208B FREIGHTER"
+    },
+    {
+    "AircraftCode": "CNJ",
+    "AircraftName": "CESSNA CITATION"
+    },
+    {
+    "AircraftCode": "CNT",
+    "AircraftName": "CESSNA STATIONAIR 207"
+    },
+    {
+    "AircraftCode": "CR1",
+    "AircraftName": "CANADAIR"
+    },
+    {
+    "AircraftCode": "CR2",
+    "AircraftName": "CANADIAN REGIONAL 200"
+    },
+    {
+    "AircraftCode": "CR7",
+    "AircraftName": "CRJ-700 CANADAIR REGIONAL"
+    },
+    {
+    "AircraftCode": "CR9",
+    "AircraftName": "CANADAIR REGIONAL"
+    },
+    {
+    "AircraftCode": "CRA",
+    "AircraftName": "CANADAIR CRJ SERIES 705"
+    },
+    {
+    "AircraftCode": "CRJ",
+    "AircraftName": "CRJ-CANADAIR REGIONAL"
+    },
+    {
+    "AircraftCode": "CRK",
+    "AircraftName": "CANADAIR REGIONAL"
+    },
+    {
+    "AircraftCode": "CRV",
+    "AircraftName": "CARAVELLE"
+    },
+    {
+    "AircraftCode": "CS1",
+    "AircraftName": "BOMBARDIER CS 100"
+    },
+    {
+    "AircraftCode": "CS2",
+    "AircraftName": "CASA C212 AVIOCAR"
+    },
+    {
+    "AircraftCode": "CS3",
+    "AircraftName": "BOMBARDIER CS 300"
+    },
+    {
+    "AircraftCode": "CS5",
+    "AircraftName": "CASA NUSANTARA CN-235"
+    },
+    {
+    "AircraftCode": "CSB",
+    "AircraftName": "BOMBARDIER CS100"
+    },
+    {
+    "AircraftCode": "CVF",
+    "AircraftName": "CONVAIR FREIGHTER"
+    },
+    {
+    "AircraftCode": "CVR",
+    "AircraftName": "CONVAIR"
+    },
+    {
+    "AircraftCode": "D10",
+    "AircraftName": "MCDONNELL DOUGLAS DC10"
+    },
+    {
+    "AircraftCode": "D1C",
+    "AircraftName": "MCDONNELL DOUGLAS DC10"
+    },
+    {
+    "AircraftCode": "D28",
+    "AircraftName": "DORNIER 228"
+    },
+    {
+    "AircraftCode": "D38",
+    "AircraftName": "DORNIER 328"
+    },
+    {
+    "AircraftCode": "D86",
+    "AircraftName": "MCDONNELL DOUGLAS DC-8-61"
+    },
+    {
+    "AircraftCode": "D93",
+    "AircraftName": "MCDONNELL DOUGLAS DC9"
+    },
+    {
+    "AircraftCode": "D94",
+    "AircraftName": "MCDONNELL DOUGLAS DC9-40"
+    },
+    {
+    "AircraftCode": "D95",
+    "AircraftName": "MCDONNELL DOUGLAS DC9"
+    },
+    {
+    "AircraftCode": "D9S",
+    "AircraftName": "MCDONNELL DOUGLAS DC9"
+    },
+    {
+    "AircraftCode": "DC3",
+    "AircraftName": "MCDONNELL DOUGLAS DC3"
+    },
+    {
+    "AircraftCode": "DC6",
+    "AircraftName": "MCDONNELL DOUGLAS DC6"
+    },
+    {
+    "AircraftCode": "DC8",
+    "AircraftName": "MCDONNELL DOUGLAS DC8"
+    },
+    {
+    "AircraftCode": "DC9",
+    "AircraftName": "MCDONNELL DOUGLAS DC9"
+    },
+    {
+    "AircraftCode": "DF2",
+    "AircraftName": "DASSAULT FALCON 20"
+    },
+    {
+    "AircraftCode": "DFL",
+    "AircraftName": "DESSAULT-BREGUET MYSTERE-FALCON"
+    },
+    {
+    "AircraftCode": "DH1",
+    "AircraftName": "DASH1"
+    },
+    {
+    "AircraftCode": "DH2",
+    "AircraftName": "DEHAVILLAND DASH8"
+    },
+    {
+    "AircraftCode": "DH3",
+    "AircraftName": "DEHAVILLAND DASH 8"
+    },
+    {
+    "AircraftCode": "DH4",
+    "AircraftName": "DEHAVILLAND DASH 8-400"
+    },
+    {
+    "AircraftCode": "DH7",
+    "AircraftName": "DEHAVILLAND DASH 7"
+    },
+    {
+    "AircraftCode": "DH8",
+    "AircraftName": "DEHAVILLAND DASH 8"
+    },
+    {
+    "AircraftCode": "DHB",
+    "AircraftName": "DEHAVILLAND TURBO BEAVER"
+    },
+    {
+    "AircraftCode": "DHC",
+    "AircraftName": "CALM AIR TWIN OTTER"
+    },
+    {
+    "AircraftCode": "DHD",
+    "AircraftName": "BRITISH AEROSPACE DEHAVILLAND DOVE"
+    },
+    {
+    "AircraftCode": "DHL",
+    "AircraftName": "DHC-3 TURBO OTTER"
+    },
+    {
+    "AircraftCode": "DHO",
+    "AircraftName": "DEHAVILLAND OTTER"
+    },
+    {
+    "AircraftCode": "DHP",
+    "AircraftName": "DEHAVILLAND BEAVER"
+    },
+    {
+    "AircraftCode": "DHS",
+    "AircraftName": "DE HAVILLAND DHC-3 OTTER"
+    },
+    {
+    "AircraftCode": "DHT",
+    "AircraftName": "DEHAVILLAND 6 TWIN OTTER"
+    },
+    {
+    "AircraftCode": "DO8",
+    "AircraftName": "DORNIER 228"
+    },
+    {
+    "AircraftCode": "E70",
+    "AircraftName": "EMBRAER 170"
+    },
+    {
+    "AircraftCode": "E75",
+    "AircraftName": "EMBRAER EMB 175"
+    },
+    {
+    "AircraftCode": "E7W",
+    "AircraftName": "EMBRAER 175"
+    },
+    {
+    "AircraftCode": "E90",
+    "AircraftName": "EMBRAER EMB E90"
+    },
+    {
+    "AircraftCode": "E95",
+    "AircraftName": "EMBRAER 195"
+    },
+    {
+    "AircraftCode": "EC3",
+    "AircraftName": "EUROCOPTER EC130"
+    },
+    {
+    "AircraftCode": "EM2",
+    "AircraftName": "EMBRAER 120"
+    },
+    {
+    "AircraftCode": "EMB",
+    "AircraftName": "EMBRAER BANDEIRANTE"
+    },
+    {
+    "AircraftCode": "EMJ",
+    "AircraftName": "EMBRAER EMB 190"
+    },
+    {
+    "AircraftCode": "ER3",
+    "AircraftName": "ER3-EMBRAER RJ135"
+    },
+    {
+    "AircraftCode": "ER4",
+    "AircraftName": "ER4-EMBRAER RJ145 AMAZON"
+    },
+    {
+    "AircraftCode": "ERD",
+    "AircraftName": "EMBRAER RJ140"
+    },
+    {
+    "AircraftCode": "ERJ",
+    "AircraftName": "EMBRAER"
+    },
+    {
+    "AircraftCode": "F22",
+    "AircraftName": "FOKKER F28 FELLOWSHIP 2000"
+    },
+    {
+    "AircraftCode": "F24",
+    "AircraftName": "FOKKER F28-4000 FELLOWSHIP"
+    },
+    {
+    "AircraftCode": "F27",
+    "AircraftName": "FOKKER VFW F27 FRIENDSHIP"
+    },
+    {
+    "AircraftCode": "F28",
+    "AircraftName": "FOKKER F28 FELLOWSHIP"
+    },
+    {
+    "AircraftCode": "F50",
+    "AircraftName": "FOKKER 50"
+    },
+    {
+    "AircraftCode": "F70",
+    "AircraftName": "FOKKER"
+    },
+    {
+    "AircraftCode": "FK7",
+    "AircraftName": "FAIRCHILD HILLER FH227"
+    },
+    {
+    "AircraftCode": "FRJ",
+    "AircraftName": "FAIRCHILD AEROSPACE"
+    },
+    {
+    "AircraftCode": "FRT",
+    "AircraftName": "FREIGHTER"
+    },
+    {
+    "AircraftCode": "GA8",
+    "AircraftName": "GIPPSLAND AIRVAN"
+    },
+    {
+    "AircraftCode": "GJ2",
+    "AircraftName": "GULSTREAM 1159"
+    },
+    {
+    "AircraftCode": "GJ5",
+    "AircraftName": "GULFSTREAM 500-550"
+    },
+    {
+    "AircraftCode": "GRG",
+    "AircraftName": "GRUMMAN GOOSE"
+    },
+    {
+    "AircraftCode": "GRM",
+    "AircraftName": "GRUMMAN MALLARD"
+    },
+    {
+    "AircraftCode": "GRS",
+    "AircraftName": "GRUMMAN GULFSTREAM"
+    },
+    {
+    "AircraftCode": "H25",
+    "AircraftName": "HAWKER 750"
+    },
+    {
+    "AircraftCode": "HBA",
+    "AircraftName": "HAWKER BEECHCRAFT"
+    },
+    {
+    "AircraftCode": "HEC",
+    "AircraftName": "HELIO COURIER"
+    },
+    {
+    "AircraftCode": "HEL",
+    "AircraftName": "HELICOPTER"
+    },
+    {
+    "AircraftCode": "HS7",
+    "AircraftName": "HAWKER SIDDELEY 748"
+    },
+    {
+    "AircraftCode": "I14",
+    "AircraftName": "ILYUSHIN 114"
+    },
+    {
+    "AircraftCode": "ICE",
+    "AircraftName": "INTER-CITY EXPRESS"
+    },
+    {
+    "AircraftCode": "IL6",
+    "AircraftName": "ILYUSHIN IL62"
+    },
+    {
+    "AircraftCode": "IL8",
+    "AircraftName": "IIYUSHIN II-18"
+    },
+    {
+    "AircraftCode": "IL9",
+    "AircraftName": "ILYUSHIN IL96"
+    },
+    {
+    "AircraftCode": "ILW",
+    "AircraftName": "ILYUSHIN IL86"
+    },
+    {
+    "AircraftCode": "J31",
+    "AircraftName": "JETSTREAM 31"
+    },
+    {
+    "AircraftCode": "J32",
+    "AircraftName": "JETSTREAM 32"
+    },
+    {
+    "AircraftCode": "J41",
+    "AircraftName": "JETSTREAM 41"
+    },
+    {
+    "AircraftCode": "JST",
+    "AircraftName": "JST BRITISH AEROSPACE JETSTREAM"
+    },
+    {
+    "AircraftCode": "JU5",
+    "AircraftName": "JUNKERS JU52"
+    },
+    {
+    "AircraftCode": "L10",
+    "AircraftName": "LOCKHEED L1011 TRISTAR"
+    },
+    {
+    "AircraftCode": "L11",
+    "AircraftName": "L11 LOCKHEED L1011 TRISTAR"
+    },
+    {
+    "AircraftCode": "L15",
+    "AircraftName": "LOCKHEED L1011-500 TRISTAR"
+    },
+    {
+    "AircraftCode": "L4T",
+    "AircraftName": "LET L410 TURBOLET"
+    },
+    {
+    "AircraftCode": "LCH",
+    "AircraftName": "LAUNCH-BOAT"
+    },
+    {
+    "AircraftCode": "LMO",
+    "AircraftName": "LIMOUSINE"
+    },
+    {
+    "AircraftCode": "LOH",
+    "AircraftName": "LOCKHEED L-382 HERCULES"
+    },
+    {
+    "AircraftCode": "LOM",
+    "AircraftName": "LOCKHEED ELECTRA"
+    },
+    {
+    "AircraftCode": "LRJ",
+    "AircraftName": "LRJ"
+    },
+    {
+    "AircraftCode": "M11",
+    "AircraftName": "MCDONNELL DOUGLAS MD-11"
+    },
+    {
+    "AircraftCode": "M1M",
+    "AircraftName": "MCDONNELL DOUGLAS MD-11"
+    },
+    {
+    "AircraftCode": "M80",
+    "AircraftName": "MCDONNELL DOUGLAS MD-80"
+    },
+    {
+    "AircraftCode": "M81",
+    "AircraftName": "MCDONNELL DOUGLAS MD-80"
+    },
+    {
+    "AircraftCode": "M82",
+    "AircraftName": "MCDONNELL DOUGLAS MD-82"
+    },
+    {
+    "AircraftCode": "M83",
+    "AircraftName": "MCDONNELL DOUGLAS MD-83"
+    },
+    {
+    "AircraftCode": "M87",
+    "AircraftName": "MCDONNELL DOUGLAS MD-87"
+    },
+    {
+    "AircraftCode": "M88",
+    "AircraftName": "MCDONNELL DOUGLAS MD-88"
+    },
+    {
+    "AircraftCode": "M90",
+    "AircraftName": "MCDONNELL DOUGLAS MD-90"
+    },
+    {
+    "AircraftCode": "MA6",
+    "AircraftName": "XIAN YUNSHUJI"
+    },
+    {
+    "AircraftCode": "MBH",
+    "AircraftName": "EUROCOPTER BO105"
+    },
+    {
+    "AircraftCode": "MD9",
+    "AircraftName": "MCDONNELL DOUGLAS 900"
+    },
+    {
+    "AircraftCode": "MIH",
+    "AircraftName": "MIKHAIL MIL"
+    },
+    {
+    "AircraftCode": "MTL",
+    "AircraftName": "METROLINER"
+    },
+    {
+    "AircraftCode": "ND2",
+    "AircraftName": "NORD AVIATION 262"
+    },
+    {
+    "AircraftCode": "NDC",
+    "AircraftName": "CORVETTE"
+    },
+    {
+    "AircraftCode": "NDE",
+    "AircraftName": "AEROSPATIALE"
+    },
+    {
+    "AircraftCode": "NDH",
+    "AircraftName": "DAUPHIN"
+    },
+    {
+    "AircraftCode": "PA2",
+    "AircraftName": "PIPER TWIN"
+    },
+    {
+    "AircraftCode": "PAG",
+    "AircraftName": "PIPER"
+    },
+    {
+    "AircraftCode": "PL2",
+    "AircraftName": "PILATUS PC 12"
+    },
+    {
+    "AircraftCode": "PR1",
+    "AircraftName": "HAWKER 390 PREMIER 1 1A"
+    },
+    {
+    "AircraftCode": "PRO",
+    "AircraftName": "PROP"
+    },
+    {
+    "AircraftCode": "PRP",
+    "AircraftName": "PROPELLER-UNDEFINED"
+    },
+    {
+    "AircraftCode": "S20",
+    "AircraftName": "SAAB"
+    },
+    {
+    "AircraftCode": "S61",
+    "AircraftName": "SIKORSKY S61"
+    },
+    {
+    "AircraftCode": "S76",
+    "AircraftName": "SIKORSKY S76 HELICOPTER"
+    },
+    {
+    "AircraftCode": "S80",
+    "AircraftName": "MCDONNELL DOUGLAS MD-80"
+    },
+    {
+    "AircraftCode": "SF3",
+    "AircraftName": "SAAB 340"
+    },
+    {
+    "AircraftCode": "SFA",
+    "AircraftName": "SAAB 340"
+    },
+    {
+    "AircraftCode": "SFB",
+    "AircraftName": "SAAB 340B"
+    },
+    {
+    "AircraftCode": "SH3",
+    "AircraftName": "SHORT BROS 330"
+    },
+    {
+    "AircraftCode": "SH6",
+    "AircraftName": "SHORT BROS 360"
+    },
+    {
+    "AircraftCode": "SHS",
+    "AircraftName": "SHORT BROS SKYVAN"
+    },
+    {
+    "AircraftCode": "SU1",
+    "AircraftName": "SUKHOI SUPERJET 100"
+    },
+    {
+    "AircraftCode": "SU9",
+    "AircraftName": "SUKHOI SUPERJET 100-95"
+    },
+    {
+    "AircraftCode": "SWM",
+    "AircraftName": "FAIRCHILD"
+    },
+    {
+    "AircraftCode": "T20",
+    "AircraftName": "TUPOLEV 204J"
+    },
+    {
+    "AircraftCode": "T34",
+    "AircraftName": "TUPOLEV TU334"
+    },
+    {
+    "AircraftCode": "TBM",
+    "AircraftName": "SOCATA TBM-700"
+    },
+    {
+    "AircraftCode": "TGV",
+    "AircraftName": "TRAIN A GRAND VITESSE"
+    },
+    {
+    "AircraftCode": "THS",
+    "AircraftName": "HIGH SPEED TRAIN"
+    },
+    {
+    "AircraftCode": "THT",
+    "AircraftName": "HOTEL TRAIN"
+    },
+    {
+    "AircraftCode": "TRB",
+    "AircraftName": "TURBOPROP"
+    },
+    {
+    "AircraftCode": "TRN",
+    "AircraftName": "TRAIN"
+    },
+    {
+    "AircraftCode": "TRS",
+    "AircraftName": "TRAIN HIGH SPEED"
+    },
+    {
+    "AircraftCode": "TU3",
+    "AircraftName": "TUPOLEV TU134"
+    },
+    {
+    "AircraftCode": "TU5",
+    "AircraftName": "TUPOLEV TU154"
+    },
+    {
+    "AircraftCode": "WWP",
+    "AircraftName": "ISRAEL AIR INDUSTRIES 1124 WESTWIND"
+    },
+    {
+    "AircraftCode": "YK2",
+    "AircraftName": "YAKOLEV YAK 42"
+    },
+    {
+    "AircraftCode": "YK4",
+    "AircraftName": "YAKOLEV YAK 40"
+    },
+    {
+    "AircraftCode": "YN2",
+    "AircraftName": "HARBIN YUNSHUJI"
+    },
+    {
+    "AircraftCode": "YN7",
+    "AircraftName": "XIAN YUNSHUJI"
+    },
+    {
+    "AircraftCode": "YS1",
+    "AircraftName": "NIHON YS11"
+    }
+]

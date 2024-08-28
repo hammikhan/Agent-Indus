@@ -1,0 +1,120 @@
+.login-popup-wrapper, .signup-popup-wrapper{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 9;
+    display: flex;
+    align-items: center;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.3s cubic-bezier(0.47, 0, 0.745, 0.715);
+}
+.login-popup-wrapper.show, .signup-popup-wrapper.show{
+    visibility: visible;
+    opacity: 1;
+}
+.login-popup-inner, .signup-popup-inner{
+    background-color: #fff;
+    width: 100%;
+    max-width: 500px;
+    margin: auto auto;
+    display: block;
+    border-radius: 11px;
+    position: relative;
+}
+.signup-popup-inner {
+    max-height: 90vh;
+    overflow: auto;
+}
+.signup-popup-inner::-webkit-scrollbar{
+    width: 10px;
+}
+.signup-popup-inner::-webkit-scrollbar-thumb{
+    background-color: lightgrey;
+}
+.close-login-popup, .close-signup-popup{
+    position: absolute;
+    right: 10px;
+    top:10px;
+    cursor: pointer;
+}
+
+.login-popup-img{
+    width: 100%;
+}
+.login-popup-img img{
+    width: 100%;
+    max-width: 300px;
+}
+
+/* edit profile page start */
+.account-sidebar{
+    padding: 60px 40px 40px 90px;
+}
+
+.customer-tab{
+    font-size: 24px;
+    cursor: pointer;
+}
+.customer-tab.active{
+    border-left: 2px solid #40C84F;
+}
+.customer-field-row input[required]:placeholder-shown{
+    border: 1px solid red;
+}
+@media (max-width: 992px) {
+    .account-sidebar{
+        padding: 40px 30px 30px 30px;
+    }
+    .customer-tab{
+        font-size: 18px;
+    }
+}
+@media (max-width: 768px) {
+    .account-sidebar{
+        padding: 30px 10px 30px 10px;
+    }
+    .customer-tab{
+        font-size: 16px;
+    }
+    .customer-tabs {
+        display: flex;
+        justify-content: space-between;
+    }
+    .customer-tab.active{
+        border-left: 0px solid #40C84F;
+        border-bottom: 2px solid #40C84F;
+    }
+}
+/* edit profile page end */
+
+
+/* wallet page start */
+.wallet-balance-amount{
+    font-size: 32px;
+}
+.customer-transactions-history-table{
+    border: 1px solid lightgrey;
+}
+/* wallet page end */
+
+
+/* bookings page start */
+.customer-bookings .flight-brand-info{
+    grid-column: 1/1;
+}
+@media (max-width: 768px){
+    .customer-bookings .flight-brand-info {
+        grid-column: 1/-1;
+        justify-content: center;
+    }
+    .customer-bookings .flight-book-actions{
+        justify-content: center !important;
+    }
+}
+/* bookings page end */

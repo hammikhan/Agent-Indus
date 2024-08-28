@@ -1,0 +1,249 @@
+/* ---------------------------------------- */
+.tt-menu,
+.gist {
+    text-align: left;
+}
+.typeahead .typeahead_origion .tt-hint{
+    display: none !important;
+}
+.typeahead,
+.tt-query,
+.tt-hint {
+    /*width: 396px;*/
+    height: 50px;
+    padding: 8px 12px;
+    font-size: 24px;
+    line-height: 30px;
+    border: 1px solid #ced4da;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    outline: none;
+}
+/*typeahead input placeholder color*/
+.tt-input::placeholder {
+    color: #E2F2F9;
+    opacity: 1;
+}
+.tt-input{
+    position: unset !important;
+    height: 40px !important;
+    top: -13px;
+}
+
+.typeahead {
+    position: unset;
+}
+.typeahead, .tt-query, .tt-hint {
+    font-size: 18px !important;
+    height: 40px;
+    color: #000;
+}
+
+.tt-query {
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.logo-card li {
+    list-style: none;
+
+}
+
+.logo-card {
+    position: relative;
+    top: 9px;
+    left: 740px;
+}
+.tt-hint {
+    color: #000;
+    display: none !important;
+}
+
+.tt-menu {
+    width: 100%;
+    margin: 4px 0;
+    padding: 8px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+
+.tt-suggestion {
+    padding: 8px 14px;
+    font-size: 13px;
+    line-height: 13px;
+    color: #000000 !important;
+    margin-bottom: 0;
+}
+
+.tt-spinner {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    display: none;
+    width: 28px;
+    height: 28px;
+}
+
+.tt-suggestion:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: #0097cf;
+}
+
+.tt-suggestion.tt-cursor {
+    color: #fff;
+    background-color: #0097cf;
+
+}
+
+.tt-suggestion p {
+    margin: 0;
+}
+
+.gist {
+    font-size: 14px;
+}
+
+/* example specific styles */
+/* ----------------------- */
+.empty-message{
+    color: black;
+}
+#remote .empty-message {
+    padding: 5px 10px;
+    text-align: center;
+}
+
+#multiple-datasets .league-name {
+    margin: 0 20px 5px 20px;
+    padding: 3px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+#scrollable-dropdown-menu .tt-menu {
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+#rtl-support .tt-menu {
+    text-align: right;
+}
+.twitter-typeahead{
+    height: 30px !important;
+    width: 100%;
+    position: unset !important;
+}
+@media (max-width: 576px){
+    .dropdown_passenger_area .dropdown-menu.show{
+        transform:unset !important;
+    }
+}
+@media (max-width: 1440px){
+    .flight_categories_search .nav-tabs {
+        justify-content:center !important;
+    }
+}
+.Hover {
+    color: blue;
+    font-size: 12px;
+}
+.Hover:hover {
+    color: blue;
+    text-decoration: underline;
+    font-size: 12px;
+}
+@media (min-width: 600px){
+    .flight_categories_search .first{
+        float: left !important;
+    }
+    .flight_categories_search .second{
+        float: right !important;
+    }
+}
+.dropdown select {
+    padding:3px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    background: none;
+    color:#0055ff;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+}
+
+.card1{
+    height: 130px;
+    background-color:white;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+
+/* -----------Blinking animations------------- */
+.uitk-skeleton-animation{
+/* background-color: #b1b3bd; */
+block-size: 0.75rem;
+border-radius: 0.5rem;
+inline-size: 100%;
+position: relative;
+margin-bottom: 3px;
+}
+
+.uitk-skeleton-animation:before {
+animation-name: blinkanimation;
+animation-duration: 1.3s;
+animation-timing-function: linear;
+animation-iteration-count: infinite;
+background-color: #ebebeb;
+block-size: 100%;
+content: "";
+inline-size: 0.1rem;
+opacity: 1;
+position: absolute;
+width: 100%;
+border-radius: 0.5rem;
+}
+
+@keyframes blinkanimation {
+0% {
+  opacity: 1;
+}
+50% {
+  opacity: 0;
+}
+100%{
+  opacity: 1;
+}
+}
+
+/*--------------------------- Search result Scroll ------------------------*/
+
+.scrollable::-webkit-scrollbar {
+width: 8px;
+}
+
+/* .scrollable::-webkit-scrollbar-track {
+background: #f1f3f7;
+} */
+
+.scrollable::-webkit-scrollbar-thumb {
+background: #cddbf4;
+}
+
+.scrollable::-webkit-scrollbar-thumb:hover {
+background: #3b76e1;
+}
