@@ -18,11 +18,11 @@ class AdminSeeder extends Seeder
         Admin::updateOrCreate(
             ['id' => 1],
             [
-                'first_name' => 'Asad',
+                'first_name' => 'Behram',
                 'last_name' => 'khan',
                 'type' => 'admin',
-                'email' => "indus.igt@gmail.com",
-                'password' => Hash::make("indus.igt@gmail.com"),
+                'email' => "afridimdk7773@gmail.com",
+                'password' => Hash::make("afridimdk7773@gmail.com"),
                 'status' => 1,
                 'email_verified_at' => now()
             ]

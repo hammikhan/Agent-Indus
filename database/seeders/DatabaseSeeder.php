@@ -13,14 +13,14 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         $this->call([
-            // AdminSeeder::class,
-            // PermissionSeeder::class,
-            // SettingsTableSeeder::class,
+            AdminSeeder::class,
+            PermissionSeeder::class,
+            SettingsTableSeeder::class,
             // AirportSeeder::class,
             // AirportSecoundSeeder::class,
             // AirportThirdSeeder::class,
             // AirlineDiscountSeeder::class,
-            ProvidersTableSeeder::class,
+            // ProvidersTableSeeder::class,
         ]);
     }
 }
